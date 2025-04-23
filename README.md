@@ -1,4 +1,4 @@
-This is the live of Student Registration for Test   http://localhost:3000
+This is the live of Student Registration for Test
 To develop a full-stack web application that allows users to register, login, take online exams, 
 and view their results. The application  have the following features and functionalities:
 Registration Module: 
