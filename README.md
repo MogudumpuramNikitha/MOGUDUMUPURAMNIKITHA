@@ -3,7 +3,7 @@ To develop a full-stack web application that allows users to register, login, ta
 and view their results. The application  have the following features and functionalities:
 Registration Module: 
 Created a Registration Page that collects the following user details:using javascript and node.js 
-○ Full Name, Email Address, Phone Number, College Name, College ID Number, Upload 
+Full Name, Email Address, Phone Number, College Name, College ID Number, Upload 
 Profile Picture (Size: 50KB - 250KB), Upload College ID Card (Size: 100KB - 500KB)
 Built using React.js with HTML and CSS
 Includes file upload and secure password generation
